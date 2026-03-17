@@ -31,11 +31,7 @@ Email Me 👉 ✉️ **danish.softknowledges@gmail.com** For Collaboration/Proje
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=MDanish121&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<!-- Snake Game Repo View -->
 
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=MDanish121&icon=0&color=0)](https://visitcount.itsvg.in)
