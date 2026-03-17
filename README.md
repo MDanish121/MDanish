@@ -3,24 +3,6 @@
 
 Email Me 👉 ✉️ **danish.softknowledges@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Enter your project info here
-- 🌱 **I’m currently learning:** Enter your tech here
-- 👯 **I’m looking to collaborate on:** Enter your project name and info
-- 🤔 **I’m looking for help with:** Your project here
-- 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** Enter your email here
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
-
-
-<h1 align="center">Hi 👋, I'm Danish </h1>
-<h3 align="center">Software Engineer </h3>
-
-**A passionate Software Engineer || DevOps Engineer || Developer from USA**
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wajaht-ali&label=Profile%20views&color=0e75b6&style=flat" alt="wajaht-ali" /> </p>
-
-<p align="left"> <a href="https://twitter.com/chwajahtali" target="blank"><img src="https://img.shields.io/twitter/follow/chwajahtali?logo=twitter&style=for-the-badge" alt="chwajahtali" /></a> </p>
-
 - 🌱 I enjoy simplifying **complex problems** into **logical ideas** to build & develop, of course over a cup of coffee ☕.
 
 Email Me 👉 ✉️ **danish.softknowledges@gmail.com** For Collaboration/Project or Anything Else. 😊😊
@@ -33,8 +15,11 @@ Email Me 👉 ✉️ **danish.softknowledges@gmail.com** For Collaboration/Proje
 - 📫 **How to reach me:** Enter your email here
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=wajaht-ali&label=Profile%20views&color=0e75b6&style=flat" alt="wajaht-ali" /> </p>
 
-- ⚡ Fun fact **The Ice breaker, Adaptive, Extrovert!**
+<p align="left"> <a href="https://twitter.com/chwajahtali" target="blank"><img src="https://img.shields.io/twitter/follow/chwajahtali?logo=twitter&style=for-the-badge" alt="chwajahtali" /></a> </p>
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
