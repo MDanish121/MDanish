@@ -12,8 +12,10 @@ Email Me 👉 ✉️ **danish.softknowledges@gmail.com** For Collaboration/Proje
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
 
-<h1 align="center">Hi 👋, I'm Wajahat</h1>
-<h3 align="center">Software Engineer @ mimAR Studios</h3>
+<h1 align="center">Hi 👋, I'm Danish </h1>
+<h3 align="center">Software Engineer </h3>
+
+**A passionate Software Engineer || DevOps Engineer || Developer from USA**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wajaht-ali&label=Profile%20views&color=0e75b6&style=flat" alt="wajaht-ali" /> </p>
 
@@ -21,11 +23,16 @@ Email Me 👉 ✉️ **danish.softknowledges@gmail.com** For Collaboration/Proje
 
 - 🌱 I enjoy simplifying **complex problems** into **logical ideas** to build & develop, of course over a cup of coffee ☕.
 
-- 👨‍💻 All of my projects are available at [https://www.wajahat-dev.vercel.app](https://www.wajahat-dev.vercel.app)
+Email Me 👉 ✉️ **danish.softknowledges@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 💬 Ask me about **Web Engineering, Problem-solving, Career growth**
+- 🔭 **I’m currently working on:** Enter your project info here
+- 🌱 **I’m currently learning:** Enter your tech here
+- 👯 **I’m looking to collaborate on:** Enter your project name and info
+- 🤔 **I’m looking for help with:** Your project here
+- 💬 **Ask me about:** Collaboration, Tech Support
+- 📫 **How to reach me:** Enter your email here
+- ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
-- 📫 How to reach me **contact.chwajahat@gmail.com**
 
 - ⚡ Fun fact **The Ice breaker, Adaptive, Extrovert!**
 
