@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm Danish
 **A passionate Cloud Engineer || DevOps Engineer || Developer from USA**
 
-Email Me 👉 ✉️ **danish@live.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **danish.softknowledges@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** Enter your project info here
 - 🌱 **I’m currently learning:** Enter your tech here
