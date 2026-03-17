@@ -11,7 +11,11 @@ Email Me 👉 ✉️ **danish@live.com** For Collaboration/Project or Anything E
 - 📫 **How to reach me:** Enter your email here
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
+<!-- Snake Game Repo View -->
 
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 # 💫 About Me:
 💻 I build high-performance mobile apps with a focus on clean UI and smooth UX<br><br>🤝 Open to collaborating on exciting app ideas, startups, and scalable products<br><br>🛠 Exploring deeper concepts in mobile architecture and backend integration<br><br>🌱 Continuously learning new technologies in Android, iOS, and cross-platform development<br><br>💬 Ask me about app development, debugging, and performance tuning<br><br>⚡ Fun fact: I love optimizing apps to make them faster and more efficient
